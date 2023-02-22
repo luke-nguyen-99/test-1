@@ -18,7 +18,5 @@ $ npm run start:prod
 ```
 
 # Test app
-# Get link: localhost:3000/api
 ```
-
-
+# Get link: http://localhost:3000/api
